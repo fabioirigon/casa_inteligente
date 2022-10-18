@@ -3,6 +3,6 @@
 int main()
 {
 
-	printf("que curso mais ou medio!!");
+	printf("que curso mais ou mediom mejmo!!");
 	return 0;
 }
