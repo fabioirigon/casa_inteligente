@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("que curso bosca!!");
+
+	printf("que curso mais ou medio!!");
 	return 0;
 }
