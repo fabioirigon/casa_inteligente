@@ -2,7 +2,6 @@
 
 int main()
 {
-
-	printf("que curso mais ou mediom mejmo!!");
+	printf("C é melhor que Python");
 	return 0;
 }
